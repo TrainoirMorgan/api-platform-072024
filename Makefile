@@ -6,3 +6,4 @@ help: ## Outputs this help screen
 up: compose.yaml
 	docker compose up -d --wait
 	symfony serve -d
+
